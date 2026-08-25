@@ -1,0 +1,6 @@
+{
+  "name": "Shopping Agent",
+  "description": "AI-powered personal shopping assistant with real-time product discovery, deal analysis, comparison matrices, review synthesis, and curated budget bundles.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
